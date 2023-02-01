@@ -1,0 +1,38 @@
+{
+  "name": "flutter-developer-extension-pack",
+  "displayName": "Flutter Developer Extension Pack",
+  "description": "VSCode Extension for App Developer",
+  "version": "0.0.1",
+  "publisher": "sumanta",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Dart-Code.dart-code",
+    "Dart-Code.flutter",
+    "jeroen-meijer.pubspec-assist",
+    "Nash.awesome-flutter-snippets",
+    "gmlewis-vscode.flutter-stylizer",
+    "orestesgaolin.dart-export-index",
+    "christian-kohler.path-intellisense",
+    "FelixAngelov.bloc",
+    "marcelovelasquez.flutter-tree",
+    "hirantha.json-to-dart",
+    "CoenraadS.bracket-pair-colorizer-2"
+  ],
+  "keywords": [],
+  "author": "Sumanta Kabiraj",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscode-extensions-pack/flutter-developer-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vscode-extensions-pack/flutter-developer-extension-pack/issues"
+  },
+  "homepage": "https://github.com/vscode-extensions-pack/flutter-developer-extension-pack#readme"
+}
